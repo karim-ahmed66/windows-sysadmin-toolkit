@@ -1,0 +1,4 @@
+FirstName,LastName,OU,Department,Title,Office,Groups
+Sara,Hassan,"OU=Users,OU=Branch-01,DC=contoso,DC=local",Operations,Teller,Branch 01,SG-Branch-Users;SG-VPN-Users
+Omar,Adel,"OU=Users,OU=HeadOffice,DC=contoso,DC=local",Finance,Accountant,Head Office,SG-Finance
+Mona,Fathy,"OU=Users,OU=HeadOffice,DC=contoso,DC=local",IT,Support Engineer,Head Office,SG-IT-Helpdesk

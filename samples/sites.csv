@@ -1,0 +1,6 @@
+Name,Address,Ports,Group
+Head Office - Core Switch,10.0.0.1,,Head Office
+Head Office - App Server,10.0.0.20,443;3389,Head Office
+Branch 01 - Router,10.1.1.1,,Branches
+Branch 02 - Router,10.1.2.1,,Branches
+Public DNS,1.1.1.1,53;443,Internet

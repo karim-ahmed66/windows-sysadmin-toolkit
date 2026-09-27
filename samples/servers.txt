@@ -1,0 +1,5 @@
+# One server per line. Lines starting with # are ignored.
+DC01
+DC02
+SQL01
+WEB01

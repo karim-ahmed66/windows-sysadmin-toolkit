@@ -1,0 +1,5 @@
+# Output of the scripts
+output/
+*.log
+*.html
+new-users-*.csv
